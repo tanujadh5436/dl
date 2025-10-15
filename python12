@@ -1,0 +1,4 @@
+ab=19
+c=56
+d=ab+c
+print(d)
